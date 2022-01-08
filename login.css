@@ -1,0 +1,54 @@
+body{
+    background:radial-gradient(pink,rgb(199, 105, 183));
+}
+.box{
+    background-color: honeydew;
+    height: 15rem;
+    width: 25rem;
+    border-radius: 15px;
+    margin: auto;
+    margin-top: 13rem;
+    padding: 25px 0px;
+    box-shadow: 12px 12px 4px 1px rgba(0, 0, 255, .2);
+}
+#signin{
+    text-align: center;
+    font-weight: bold;
+    font-size: medium;
+    margin: 0;
+}
+#mail{
+    width: 96.2%;
+    padding: 5px;
+    margin-bottom:4px;
+    border-left:none;
+    border-right: none;
+    border-top: none;
+    outline: none;
+    background:none;
+}
+#pass{
+    width: 96.2%;
+    padding: 5px;
+    margin-bottom:4px;
+    border-left:none;
+    border-right: none;
+    border-top: none;
+    outline: none;
+    background:none;
+}
+#submit{
+    margin-left: 5rem;
+    margin-top: 1rem;
+    width: 15rem;
+    font-size: 1.2rem;
+    background-color: black;
+    color: blanchedalmond;
+    padding: 8px;
+}
+#fog{
+    margin-left: 70%;
+}
+.input{
+    margin-top: 2rem;
+}
